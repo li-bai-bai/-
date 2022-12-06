@@ -1,0 +1,66 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": {
+        "rotationCharts": [
+            {
+                "bannerId": "1033390254775600701",
+                "activityId": "1032985833327560039",
+                "activityName": "11.11狂欢大促",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221022/454555c5-ef41-407f-a9ca-a5c23f3e89ea.png",
+                "h5Link": "https://h5web.weijianapp.com/activity/1032985833327560039",
+                "localLink": "",
+                "toPage": 0,
+                "sort": 1,
+                "type": 0,
+                "share": 1,
+                "shareWord": "【维鉴APP】11.11年度大促，钜惠来袭！好物抢先购>>",
+                "shareImg": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221021/b2b3bfc0-02e0-450a-b73e-979a3c239dd2.png"
+            },
+            {
+                "bannerId": "1032322113857388967",
+                "activityId": "1032325093163794909",
+                "activityName": "双十一特供福利",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221022/80998429-eac8-4b16-811e-5b6e4f36e365.png",
+                "h5Link": "https://h5web.weijianapp.com/activity/1032325093163794909",
+                "localLink": "",
+                "toPage": 0,
+                "sort": 2,
+                "type": 0,
+                "share": 1,
+                "shareWord": "【维鉴APP】年度钜惠！热卖爆款低至底价！立即抢购>>",
+                "shareImg": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221021/f42db233-dd3c-428b-b8ee-ce926bf881c1.png"
+            },
+            {
+                "bannerId": "1029816297682109271",
+                "activityId": "1032985833327560039",
+                "activityName": "秋冬精选特辑",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221012/c4e68dc7-8c1a-4e39-bfa6-51f9d81cc723.png",
+                "h5Link": "https://h5web.weijianapp.com/activity/1029765309352903189",
+                "localLink": "",
+                "toPage": 0,
+                "sort": 3,
+                "type": 0,
+                "share": 1,
+                "shareWord": "【维鉴APP】秋冬精选美妆，好货提前囤！",
+                "shareImg": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221012/e8da95e2-ad83-40e3-81c4-a4d775abe5b7.jpg"
+            },
+            {
+                "bannerId": "733065285220696270",
+                "activityId": "1032325093163794909",
+                "activityName": "维鉴APP - 美妆鉴别交易平台",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210512/a51d2daf-8972-4369-8180-dc42c43bef0c.png",
+                "h5Link": "https://www.weijianapp.com/identification-instructions/",
+                "localLink": "",
+                "toPage": 0,
+                "sort": 11,
+                "type": 0,
+                "share": 0,
+                "shareWord": null,
+                "shareImg": null
+            }
+        ],
+        "series": null,
+        "newLinks": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "id": "333249470944772096",
+            "englishName": "MAC",
+            "name": "魅可"
+        },
+        {
+            "id": "333249872947838976",
+            "englishName": "Yves Saint Laurent",
+            "name": "圣罗兰"
+        },
+        {
+            "id": "324969073920180224",
+            "englishName": "DIOR",
+            "name": "迪奥"
+        },
+        {
+            "id": "333251965389635584",
+            "englishName": "CHANEL",
+            "name": "香奈儿"
+        },
+        {
+            "id": "333250885264080896",
+            "englishName": "GIVENCHY",
+            "name": "纪梵希"
+        },
+        {
+            "id": "333249529342066688",
+            "englishName": "SK-II",
+            "name": ""
+        },
+        {
+            "id": "333249930594353152",
+            "englishName": "Giorgio Armani",
+            "name": "阿玛尼"
+        },
+        {
+            "id": "335087473799462912",
+            "englishName": "TOM FORD",
+            "name": "汤姆福特"
+        }
+    ]
+}

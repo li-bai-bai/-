@@ -1,0 +1,68 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": {
+        "vip": {
+            "bannerId": "757545555600605513",
+            "activityName": "新人专区",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220223/07317b5a-acce-4db2-9367-a738ebe9b205.gif",
+            "h5custom": "1",
+            "toPage": 300,
+            "sort": 1,
+            "type": 2,
+            "share": 1,
+            "shareWord": null,
+            "shareImg": null
+        },
+        "newLinks": [
+            {
+                "bannerId": "757545890624831918",
+                "activityName": "精选尝鲜小样",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210804/73c88d3d-768e-4149-8281-7aef2b7e20b6.png",
+                "h5custom": "https://h5web.weijianapp.com/activity/869271209915711807",
+                "toPage": 100,
+                "sort": 4,
+                "type": 3,
+                "share": 1,
+                "shareWord": "【维鉴APP】精选热卖商品小样，立即试用尝鲜！",
+                "shareImg": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210726/5d4be8ca-e5eb-4578-a7c6-1c29e2a8307d.png"
+            },
+            {
+                "bannerId": "757545983084069160",
+                "activityName": "限时秒杀",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20211112/fc2df8ff-2d19-4369-8356-1ec1a78d6d68.png",
+                "h5custom": "1",
+                "toPage": 602,
+                "sort": 5,
+                "type": 4,
+                "share": 1,
+                "shareWord": null,
+                "shareImg": null
+            },
+            {
+                "bannerId": "757545772639060261",
+                "activityName": "0元抽奖",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221031/74bba845-5f44-40e6-876b-65efcec45d08.png",
+                "h5custom": "1",
+                "toPage": 400,
+                "sort": 3,
+                "type": 5,
+                "share": 1,
+                "shareWord": null,
+                "shareImg": null
+            }
+        ],
+        "activityBackground": {
+            "bannerId": "793870632730234192",
+            "activityName": "元旦返场背景",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210720/0be3aa9a-a82f-4942-9392-2b7845f55cc3.png",
+            "h5custom": "0",
+            "toPage": 0,
+            "sort": 1,
+            "type": 7,
+            "share": 0,
+            "shareWord": null,
+            "shareImg": null
+        }
+    }
+}

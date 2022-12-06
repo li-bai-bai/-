@@ -1,0 +1,1278 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": {
+        "pageNumber": 1,
+        "pageSize": 20,
+        "totalCount": 241,
+        "totalPage": 13,
+        "items": [
+            {
+                "prizeId": "1032674618495729807",
+                "prizeName": "雅诗兰黛小棕瓶精华",
+                "beginTime": "2022-10-26 00:00:00",
+                "endTime": "2022-10-30 22:00:00",
+                "openingTime": "2022-10-31 10:00:00",
+                "winNum": "0510",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/10a5d67b-7e09-4c3d-ab3a-8426b6c1905f.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/b28698a2-a1b6-4960-8e2b-149bcb8e7e0f.png",
+                "shareWord": "好用到爆\uD83D\uDCA5【雅诗兰黛小棕瓶精华】免费\uD83C\uDE50，抗初老的姐妹一起冲>>>",
+                "prizeGoods": "雅诗兰黛小棕瓶精华（100ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fde6a0",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/8537ae7d-83c9-4239-b5fa-f935db3a0f5a.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/246afbc3-79b3-4923-9a29-7e21caedf567.png"
+            },
+            {
+                "prizeId": "1032674153179644046",
+                "prizeName": "娇兰复原蜜",
+                "beginTime": "2022-10-24 00:00:00",
+                "endTime": "2022-10-27 22:00:00",
+                "openingTime": "2022-10-28 10:00:00",
+                "winNum": "1013",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/7f39a65a-dcd7-4242-ace1-c4bb7bf6c1c6.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/caecaea0-3705-49c6-b19e-302fb848d574.png",
+                "shareWord": "换季大救星！万能护肤油【娇兰复原蜜】免费\uD83C\uDE50，姐妹们赶紧冲>>>",
+                "prizeGoods": "娇兰复原蜜(50ml)",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fecba9",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/dcfddb13-ffe0-4376-9a42-f1804a04389a.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/4ae1ec24-0db2-4dc9-a8ce-29b337fa8c81.png"
+            },
+            {
+                "prizeId": "1031982354484166797",
+                "prizeName": "珂润保湿面霜",
+                "beginTime": "2022-10-19 00:00:00",
+                "endTime": "2022-10-23 22:00:00",
+                "openingTime": "2022-10-24 10:00:00",
+                "winNum": "1217",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/bb583b38-8d97-423a-a647-e90f73c06228.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/6a8f344e-7434-4d3c-ad40-81312c2b9b85.png",
+                "shareWord": "干皮油皮换季必囤！【珂润面霜】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                "prizeGoods": "珂润保湿面霜（40g）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fdd4c8",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/88802014-aa1d-4c7b-9bf2-b49918a9cc08.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/3cba4460-793f-4474-a09c-f21301388236.png"
+            },
+            {
+                "prizeId": "1028343547511701644",
+                "prizeName": "雅诗兰黛多效智妍面霜",
+                "beginTime": "2022-10-17 00:00:00",
+                "endTime": "2022-10-20 22:00:00",
+                "openingTime": "2022-10-21 10:00:00",
+                "winNum": "0215",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/76300e0c-9dd4-46e7-a2e6-1e197caddff3.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/101ce62d-59c8-4d58-9183-9a085180b085.png",
+                "shareWord": "嫩脸天菜✨油皮清爽版\uD83D\uDC49\uD83C\uDFFB【雅诗兰黛多效智妍面霜】免费\uD83C\uDE50，速戳>>>",
+                "prizeGoods": "雅诗兰黛多效智妍面霜（清爽版75ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fcacae",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/faf9de6a-09da-4ae4-88c9-02d567c405f3.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/a9e5133d-32ec-46be-9c83-b87c1b0dae0c.png"
+            },
+            {
+                "prizeId": "1028340807364509835",
+                "prizeName": "科颜氏高保湿面霜",
+                "beginTime": "2022-10-12 00:00:00",
+                "endTime": "2022-10-16 22:00:00",
+                "openingTime": "2022-10-17 10:00:00",
+                "winNum": "0206",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/4b4e47ec-2db7-42e4-8d2d-bc80923e2bb1.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/150a2264-4a09-454d-b58e-958435a28b20.png",
+                "shareWord": "秋冬巨补水\uD83D\uDCA7【科颜氏高保湿面霜】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                "prizeGoods": "科颜氏高保湿面霜（50ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fd9aa7",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/0b593dc5-c703-43af-9e9f-f89f2a843ddf.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/326b26f5-9519-44a1-83af-30fb6aafc62b.png"
+            },
+            {
+                "prizeId": "1028340367285551242",
+                "prizeName": "娇韵诗青春赋活精华水",
+                "beginTime": "2022-10-10 00:00:00",
+                "endTime": "2022-10-13 22:00:00",
+                "openingTime": "2022-10-14 10:00:00",
+                "winNum": "0413",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/d9d4bdfd-bf06-4c30-98bf-c0d5f44ec4cd.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/942c5e96-49f0-43fe-b834-d0a49ee6843a.png",
+                "shareWord": "\uD83D\uDC95少女精华水！抗初老必备\uD83D\uDC49\uD83C\uDFFB【娇韵诗粉水】免费\uD83C\uDE50，集美们快冲>>>",
+                "prizeGoods": "娇韵诗青春赋活精华水（200ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fcc2db",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/b6bc8106-56f4-42cc-9ea4-99f0e7d29e0a.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/1195166b-b5ab-4f59-9670-bc8397243a50.png"
+            },
+            {
+                "prizeId": "1022462097784569993",
+                "prizeName": "伊丽莎白雅顿绿茶身体乳",
+                "beginTime": "2022-10-05 00:00:00",
+                "endTime": "2022-10-09 22:00:00",
+                "openingTime": "2022-10-10 10:00:00",
+                "winNum": "0607",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/52539bab-ea13-40fe-8a84-b850bd2b7a31.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/42cd4c2e-0ec2-4964-bc74-bb2b3f944d1e.png",
+                "shareWord": "✨精致的juju女孩\uD83D\uDC67\uD83C\uDFFB秋冬必备【伊丽莎白雅顿绿茶身体乳】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                "prizeGoods": "伊丽莎白雅顿绿茶身体乳（500ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "b3e2fe",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/6969b466-3a2a-434f-b119-a2e79f346297.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/23a6ec08-ca21-4bc1-97ab-5995ca473740.png"
+            },
+            {
+                "prizeId": "1022449960601256071",
+                "prizeName": "植村秀琥珀洁颜油",
+                "beginTime": "2022-09-26 00:00:00",
+                "endTime": "2022-09-29 22:00:00",
+                "openingTime": "2022-09-30 10:00:00",
+                "winNum": "1314",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/a768402f-ebcc-4451-977f-0ee85b7483df.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/04824757-746f-4843-8acd-5a7b692273b0.png",
+                "shareWord": "卸妆天花板✨巨好用\uD83D\uDC4C\uD83C\uDFFB【植村秀琥珀洁颜油】免费\uD83C\uDE50，集美们赶紧冲>>>",
+                "prizeGoods": "植村秀琥珀洁颜油(150ml)",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "b2c8ff",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/1f0c94ea-4976-427e-96e7-6372eff305d0.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/fd12d898-0766-44fe-a9d2-abf8faa8418e.png"
+            },
+            {
+                "prizeId": "1020014947968483462",
+                "prizeName": "黛珂牛油果紫苏水套装",
+                "beginTime": "2022-09-21 00:00:00",
+                "endTime": "2022-09-25 22:00:00",
+                "openingTime": "2022-09-26 10:00:00",
+                "winNum": "0210",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/96b75f16-c4b0-49e8-b116-2d9b3996a40d.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/bceaf5b0-bea5-423f-85b8-1efb5720d4b3.png",
+                "shareWord": "\uD83D\uDCAF完美CP！【黛珂牛油果紫苏水套装】免费\uD83C\uDE50，赶紧一起来参加❗",
+                "prizeGoods": "黛珂牛油果紫苏水套装（150ml+150ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "cbbcfe",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/5821b7ce-2383-41d1-891d-7241b39a34c1.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/fd423964-2a79-4d81-a2da-fa4dad887e96.png"
+            },
+            {
+                "prizeId": "1020014153210790021",
+                "prizeName": "理肤泉B5多效保湿面膜",
+                "beginTime": "2022-09-19 00:00:00",
+                "endTime": "2022-09-22 22:00:00",
+                "openingTime": "2022-09-23 10:00:00",
+                "winNum": "0913",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/58388017-0dbf-4716-89ac-eaa1c85f4d6d.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/33815a14-b8cf-4472-bcd7-879e422b267c.png",
+                "shareWord": "敏感肌救星✨【理肤泉B5多效保湿面膜】免费\uD83C\uDE50，大家快冲鸭\uD83D\uDC49\uD83C\uDFFB",
+                "prizeGoods": "理肤泉B5多效保湿面膜（2盒）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "bee2fc",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/6666d3f0-f02a-412d-82cf-8926e73862ad.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/326c10aa-0e60-4564-8758-5057395a8505.png"
+            },
+            {
+                "prizeId": "1017734143401787524",
+                "prizeName": "科颜氏高保湿面霜",
+                "beginTime": "2022-09-14 00:00:00",
+                "endTime": "2022-09-18 22:00:00",
+                "openingTime": "2022-09-19 10:00:00",
+                "winNum": "0107",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/04b267ef-38d4-46fd-9e54-58c436dee6e1.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/f6be8177-9731-4fb3-9179-9835e89ee3e5.png",
+                "shareWord": "拯救沙漠大干皮❗巨巨巨补水\uD83D\uDCA6【科颜氏高保湿面霜】免费\uD83C\uDE50，集美们快冲鸭>>>",
+                "prizeGoods": "科颜氏高保湿面霜（50ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "bcd4fe",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/8985e044-52cb-4d32-9779-7b9d4773f286.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/ecddeb49-406b-4025-bc15-e03ebaecbd23.png"
+            },
+            {
+                "prizeId": "1017732390690226307",
+                "prizeName": "玫珂菲HD无痕蜜粉",
+                "beginTime": "2022-09-12 00:00:00",
+                "endTime": "2022-09-15 22:00:00",
+                "openingTime": "2022-09-16 10:00:00",
+                "winNum": "0309",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/0e4c4cab-c91d-4860-adeb-6b0d56f8c6d6.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/75b38487-bd1b-4b92-8b59-c94ab86503d5.png",
+                "shareWord": "\uD83D\uDCAB高能磨皮神器！一秒隐形毛孔\uD83D\uDC49\uD83C\uDFFB【玫珂菲HD无痕蜜粉】免费抽❗赶紧一起来参加>>>",
+                "prizeGoods": "玫珂菲HD无痕蜜粉（8.5g）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "bfe6fe",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/b81314d6-17a7-46a3-b2df-83da45a73094.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/a233f819-d1ae-4f3b-962d-6e96009503de.png"
+            },
+            {
+                "prizeId": "1014910453769306242",
+                "prizeName": "雅诗兰黛小棕瓶眼霜",
+                "beginTime": "2022-09-07 00:00:00",
+                "endTime": "2022-09-11 22:00:00",
+                "openingTime": "2022-09-12 10:00:00",
+                "winNum": "0612",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/f657bde3-0a20-47c1-9b52-c4f963452609.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/3cb6fbdd-9c19-4c5f-a374-f3ea20cd6c7d.png",
+                "shareWord": "眼部抗老抗氧化❗一瓶搞定\uD83D\uDC49\uD83C\uDFFB【雅诗兰黛小棕瓶眼霜】免费\uD83C\uDE50，快戳>>>",
+                "prizeGoods": "雅诗兰黛小棕瓶眼霜（15ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fda98c",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/b2abbd3f-f365-416b-a20d-151689d1496f.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/949ed8bd-a02a-4ac6-89d1-e1769785d102.png"
+            },
+            {
+                "prizeId": "1014909637029265537",
+                "prizeName": "衰败城市眼影盘",
+                "beginTime": "2022-09-05 00:00:00",
+                "endTime": "2022-09-08 22:00:00",
+                "openingTime": "2022-09-09 10:00:00",
+                "winNum": "0108",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/ca1961ae-aef7-466b-bf67-c9c44cfd1810.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/a280780c-8421-4218-8ef6-4a6f9f18784f.png",
+                "shareWord": "✨爆闪预警！\uD83D\uDC1D绝美蜂蜜盘\uD83D\uDC49\uD83C\uDFFB【衰败城市（Naked Honey）】免费抽❗快戳>>>",
+                "prizeGoods": "衰败城市眼影盘（Naked Honey）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fece91",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/5fb7acb7-0894-4949-960c-a2ca7a190717.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/eb26e4d3-63bf-404b-ad4b-7c951646b4e5.png"
+            },
+            {
+                "prizeId": "1012329359970664576",
+                "prizeName": "欧莱雅小蜜罐面霜",
+                "beginTime": "2022-08-31 00:00:00",
+                "endTime": "2022-09-04 22:00:00",
+                "openingTime": "2022-09-05 10:00:00",
+                "winNum": "0910",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/d1e36a55-ccb2-4b61-b3ae-32720e7d361f.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/236ed12d-7c92-42e7-90d8-9465b365bc93.png",
+                "shareWord": "拯救松垮脸⚠️贵妇级抗老\uD83D\uDC49\uD83C\uDFFB【欧莱雅小蜜罐面霜】免费\uD83C\uDE50，一起冲鸭>>>",
+                "prizeGoods": "欧莱雅小蜜罐面霜（50ml）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fddba5",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/6d8a857c-47d8-4f2b-b3da-c80337df9943.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/9d126806-f103-4e1f-8b12-39f4376d272b.png"
+            },
+            {
+                "prizeId": "1012328937306456191",
+                "prizeName": "TOM FORD细黑管唇膏",
+                "beginTime": "2022-08-29 00:00:00",
+                "endTime": "2022-09-01 22:00:00",
+                "openingTime": "2022-09-02 10:00:00",
+                "winNum": "0416",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/c967a172-b794-4549-8d1b-867ae2181d70.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/d5678578-63fa-47a9-8a25-8ea386eb0de7.png",
+                "shareWord": "⚠️王炸出击！【TF细黑管#27】免费\uD83C\uDE50，显白又复古‼️姐妹们快冲鸭>>>",
+                "prizeGoods": "TOM FORD细黑管唇膏（#27）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fdc1a5",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/a83746fb-84f7-4355-95ed-7328b76608ff.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/12357e70-0d64-4beb-8983-4df02d2a4254.png"
+            },
+            {
+                "prizeId": "1010574882804596862",
+                "prizeName": "纪梵希红丝绒唇膏",
+                "beginTime": "2022-08-24 00:00:00",
+                "endTime": "2022-08-28 22:00:00",
+                "openingTime": "2022-08-29 10:00:00",
+                "winNum": "0111",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/06a87bfc-e1f0-4a14-8fe6-ccb0b8919a74.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/9ed51162-8e15-408f-8b9e-4d2610012045.png",
+                "shareWord": "无敌断货王\uD83D\uDC49\uD83C\uDFFB【纪梵希红丝绒#N37】免费\uD83C\uDE50，秒变霸气复古女王\uD83D\uDC51，快冲>>>",
+                "prizeGoods": "纪梵希红丝绒唇膏（#N37）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fea8a3",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/c62845d3-208c-40f8-8616-03547efd8577.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/dae01ad8-40d0-40f9-8568-e13c824bc2e0.png"
+            },
+            {
+                "prizeId": "1010574254237810813",
+                "prizeName": "圣罗兰YSL小粉条",
+                "beginTime": "2022-08-22 00:00:00",
+                "endTime": "2022-08-25 22:00:00",
+                "openingTime": "2022-08-26 10:00:00",
+                "winNum": "0203",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/e2767c8d-f850-4114-9b2a-c01999be8791.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/249ab5f7-15c5-4346-a203-381bd99046cc.png",
+                "shareWord": "\uD83D\uDC49\uD83C\uDFFB【YSL小粉条#213】免费\uD83C\uDE50美昏了‼️赶紧一起来参加>>>",
+                "prizeGoods": "圣罗兰YSL小粉条（#213）",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "febecd",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/6a2f37dd-9238-4c2d-8d75-0fe79b8b157f.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220820/c27e0113-78ab-4611-b23b-8a2212ce2777.png"
+            },
+            {
+                "prizeId": "1007315146424451196",
+                "prizeName": "芭妮兰净柔卸妆膏",
+                "beginTime": "2022-08-17 00:00:00",
+                "endTime": "2022-08-21 22:00:00",
+                "openingTime": "2022-08-22 10:00:00",
+                "winNum": "0316",
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220811/e8fe0738-9c68-4303-a8bc-f77d8fcc34fa.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220811/85cbbebc-edae-4c47-9699-9074c8f7e22f.png",
+                "shareWord": "卸妆界的扛把子！【芭妮兰净柔卸妆膏】免费\uD83C\uDE50！赶紧一起来参加>>>",
+                "prizeGoods": "芭妮兰净柔卸妆膏 (100ml)",
+                "tips": "超多活动ing！",
+                "win": null,
+                "bgcolor": "fdb7c8",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220811/bff03ec0-7600-4bf8-9ebe-895378ab9505.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220811/4ff97e1f-40c9-49c5-a6f9-77f1029a4b10.png"
+            }
+        ],
+        "item": [
+            {
+                "prizeId": "1032677117919232145",
+                "prizeName": "OLAY淡斑小白瓶ProX",
+                "beginTime": "2022-11-03 00:00:00",
+                "endTime": "2022-11-06 22:00:00",
+                "openingTime": "2022-11-07 10:00:00",
+                "winNum": null,
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/bb76d319-58e6-4d46-b3bf-14ae39c15fe4.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/95fc2e46-3147-41cd-988c-298704646206.png",
+                "shareWord": "“平价版”小灯泡\uD83D\uDCA1【OLAY淡斑小白瓶】免费\uD83C\uDE50，快戳>>>",
+                "prizeGoods": "OLAY淡斑小白瓶ProX(40ml)",
+                "tips": null,
+                "win": null,
+                "bgcolor": "ccc0fb",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/bba6f89d-805e-4d7a-8913-d8334e183763.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/f6afe3f0-fe68-44d8-823f-ca5cc5a9c2c8.png"
+            },
+            {
+                "prizeId": "1032675547286601872",
+                "prizeName": "兰蔻小黑瓶肌底液",
+                "beginTime": "2022-10-31 00:00:00",
+                "endTime": "2022-11-03 22:00:00",
+                "openingTime": "2022-11-04 10:00:00",
+                "winNum": null,
+                "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/d9f04bea-9f31-48c1-b921-258051bd0d59.png",
+                "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/7a229722-dc11-4378-ac49-32ac938a9582.png",
+                "shareWord": "\uD83D\uDCAF维稳修护扛把子！【兰蔻小黑瓶】免费\uD83C\uDE50，赶紧一起来参加>>>",
+                "prizeGoods": "兰蔻小黑瓶肌底液(30ml)",
+                "tips": null,
+                "win": null,
+                "bgcolor": "fce8b9",
+                "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/89412ef7-3a4e-4527-9c51-47f2ca29feda.png",
+                "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/f96eccad-05d6-4232-b31d-3a924567ea3c.png"
+            }
+        ],
+        "all":[
+            {
+                "tick": 0,
+                "bgcolor": "ccc0fb",
+                "tickNum": [
+                    "2","5","1","2"
+                ],
+                "prizeInfo": {
+                    "prizeId": "1032677117919232145",
+                    "prizeName": "OLAY淡斑小白瓶ProX",
+                    "beginTime": "2022-11-03 00:00:00",
+                    "endTime": "2022-11-06 22:00:00",
+                    "openingTime": "2022-11-07 10:00:00",
+                    "winNum": null,
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/bb76d319-58e6-4d46-b3bf-14ae39c15fe4.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/95fc2e46-3147-41cd-988c-298704646206.png",
+                    "shareWord": "“平价版”小灯泡\uD83D\uDCA1【OLAY淡斑小白瓶】免费\uD83C\uDE50，快戳>>>",
+                    "prizeGoods": "OLAY淡斑小白瓶ProX(40ml)",
+                    "tips": null,
+                    "bgcolor": "ccc0fb",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/bba6f89d-805e-4d7a-8913-d8334e183763.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/f6afe3f0-fe68-44d8-823f-ca5cc5a9c2c8.png"
+                },
+                "invitation": [],
+                "participantAmount": 148,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221031/4b8267f7-cff1-462d-890f-a8022a318df3.jpg",
+                        "userNick": "侬知几分"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221105/62857910-a7df-4b92-9484-b6858ff5b1ce.jpg",
+                        "userNick": "三月"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220803/22bb3367-7003-4f02-bf5f-5f784819aca2.jpg",
+                        "userNick": "一口甜粥"
+                    }
+                ],
+                "winnerList": null,
+                "status": 1,
+                "first": true,
+                "submitAddress": false,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fce8b9",
+                "tickNum": [
+                    "0","9","1","8"
+                ],
+                "prizeInfo": {
+                    "prizeId": "1032675547286601872",
+                    "prizeName": "兰蔻小黑瓶肌底液",
+                    "beginTime": "2022-10-31 00:00:00",
+                    "endTime": "2022-11-03 22:00:00",
+                    "openingTime": "2022-11-04 10:00:00",
+                    "winNum": "0113",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/d9f04bea-9f31-48c1-b921-258051bd0d59.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/7a229722-dc11-4378-ac49-32ac938a9582.png",
+                    "shareWord": "\uD83D\uDCAF维稳修护扛把子！【兰蔻小黑瓶】免费\uD83C\uDE50，赶紧一起来参加>>>",
+                    "prizeGoods": "兰蔻小黑瓶肌底液(30ml)",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fce8b9",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/89412ef7-3a4e-4527-9c51-47f2ca29feda.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/f96eccad-05d6-4232-b31d-3a924567ea3c.png"
+                },
+                "invitation": [],
+                "participantAmount": 351,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221102/eb42b406-b309-44a9-afff-dbd777eded5a.jpg",
+                        "userNick": "如此這般"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221019/3b55388b-dfb5-4873-bcd0-cbc9949f3c5c.jpg",
+                        "userNick": "feng"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221024/3804b587-9a57-4723-acc9-cc81ce33b5c7.jpg",
+                        "userNick": "敏敏"
+                    }
+                ],
+                "winnerList": [],
+                "status": 2,
+                "first": true,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fde6a0",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1032674618495729807",
+                    "prizeName": "雅诗兰黛小棕瓶精华",
+                    "beginTime": "2022-10-26 00:00:00",
+                    "endTime": "2022-10-30 22:00:00",
+                    "openingTime": "2022-10-31 10:00:00",
+                    "winNum": "0510",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/10a5d67b-7e09-4c3d-ab3a-8426b6c1905f.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/b28698a2-a1b6-4960-8e2b-149bcb8e7e0f.png",
+                    "shareWord": "好用到爆\uD83D\uDCA5【雅诗兰黛小棕瓶精华】免费\uD83C\uDE50，抗初老的姐妹一起冲>>>",
+                    "prizeGoods": "雅诗兰黛小棕瓶精华（100ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fde6a0",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/8537ae7d-83c9-4239-b5fa-f935db3a0f5a.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/246afbc3-79b3-4923-9a29-7e21caedf567.png"
+                },
+                "invitation": [],
+                "participantAmount": 359,
+                "participantList": [
+                    {
+                        "pic": "https://thirdwx.qlogo.cn/mmopen/vi_32/WpicUTKSEedickXutRQuPQR9Dek96xF5T8aJYk5xhBkvp6ibIc63kBsCnex2WEeW8C7EHOephl2C32BhiagumzBCqw/132",
+                        "userNick": "保质期"
+                    },
+                    {
+                        "pic": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIDxOgg5f7B6HMg0almCjUD9dyiaVEsVnkG3DwN2cpKqY8pFl4ZuPAM9TMiczgbfcFPNbUGq85jLdwg/132",
+                        "userNick": "自由自在"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221030/82fa29dc-c8f9-466e-a2ee-d1da54d50049.jpg",
+                        "userNick": "月野佳奈"
+                    },
+                    {
+                        "pic": "",
+                        "userNick": ""
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220611/e30f922e-9d67-45da-b843-292617701de3.jpg",
+                        "userNick": "Jinji"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fecba9",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1032674153179644046",
+                    "prizeName": "娇兰复原蜜",
+                    "beginTime": "2022-10-24 00:00:00",
+                    "endTime": "2022-10-27 22:00:00",
+                    "openingTime": "2022-10-28 10:00:00",
+                    "winNum": "1013",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/7f39a65a-dcd7-4242-ace1-c4bb7bf6c1c6.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/caecaea0-3705-49c6-b19e-302fb848d574.png",
+                    "shareWord": "换季大救星！万能护肤油【娇兰复原蜜】免费\uD83C\uDE50，姐妹们赶紧冲>>>",
+                    "prizeGoods": "娇兰复原蜜(50ml)",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fecba9",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/dcfddb13-ffe0-4376-9a42-f1804a04389a.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221020/4ae1ec24-0db2-4dc9-a8ce-29b337fa8c81.png"
+                },
+                "invitation": [],
+                "participantAmount": 357,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221027/75d7e440-0dfe-4e7b-bc68-5965a5c6aee5.jpg",
+                        "userNick": "撩诱诱"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221023/7244ebcc-f3bc-4dbb-9e75-ec71f7eafe76.jpg",
+                        "userNick": "筱筱"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221027/849bb5fe-f654-447d-8176-7f995456f728.jpg",
+                        "userNick": "Avery"
+                    },
+                    {
+                        "pic": "https://thirdwx.qlogo.cn/mmopen/vi_32/phnkQcaqXmfGPTKL6CeR5Oftveh1z7HnbtCpxqaibS68Cnxz9stQxJlp1x8MR5icWW1yYy3VK3M67T7uianPc2LYg/132",
+                        "userNick": "Abit"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "https://wx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIlmUXHftk5uL4mjnNVsZwxMW8iaed1AL32B1zsGiaIpV5xC4J9DvMZwHoCYXTD8f6mGPkJ7O48KKWg/132",
+                        "userNick": "🔇"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fdd4c8",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1031982354484166797",
+                    "prizeName": "珂润保湿面霜",
+                    "beginTime": "2022-10-19 00:00:00",
+                    "endTime": "2022-10-23 22:00:00",
+                    "openingTime": "2022-10-24 10:00:00",
+                    "winNum": "1217",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/bb583b38-8d97-423a-a647-e90f73c06228.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/6a8f344e-7434-4d3c-ad40-81312c2b9b85.png",
+                    "shareWord": "干皮油皮换季必囤！【珂润面霜】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                    "prizeGoods": "珂润保湿面霜（40g）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fdd4c8",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/88802014-aa1d-4c7b-9bf2-b49918a9cc08.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221018/3cba4460-793f-4474-a09c-f21301388236.png"
+                },
+                "invitation": [],
+                "participantAmount": 327,
+                "participantList": [
+                    {
+                        "pic": "https://thirdwx.qlogo.cn/mmopen/vi_32/RbibhLxLZibFsSMjXnjGibU7ianGttj8AsMKAQHysh04GFhI70QictFZiaYqpB5d6dQvzmnsVufc2SPnzGXO9OmeI6pQ/132",
+                        "userNick": "山治我要吃肉！！！"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220911/328c24c1-33b3-4325-ae06-6a9d4f944a1e.jpg",
+                        "userNick": "汤圆"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221023/20f7f4d6-dc57-4b3e-b522-7d36b994b10f.jpg",
+                        "userNick": "荇"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221023/5a5052de-9f98-42d4-b4ab-36888fd9484d.jpg",
+                        "userNick": "crystal"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fcacae",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1028343547511701644",
+                    "prizeName": "雅诗兰黛多效智妍面霜",
+                    "beginTime": "2022-10-17 00:00:00",
+                    "endTime": "2022-10-20 22:00:00",
+                    "openingTime": "2022-10-21 10:00:00",
+                    "winNum": "0215",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/76300e0c-9dd4-46e7-a2e6-1e197caddff3.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/101ce62d-59c8-4d58-9183-9a085180b085.png",
+                    "shareWord": "嫩脸天菜✨油皮清爽版\uD83D\uDC49\uD83C\uDFFB【雅诗兰黛多效智妍面霜】免费\uD83C\uDE50，速戳>>>",
+                    "prizeGoods": "雅诗兰黛多效智妍面霜（清爽版75ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fcacae",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/faf9de6a-09da-4ae4-88c9-02d567c405f3.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/a9e5133d-32ec-46be-9c83-b87c1b0dae0c.png"
+                },
+                "invitation": [],
+                "participantAmount": 260,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221020/33cc0cd1-d3ba-47f2-b39f-426a801d2a4d.jpg",
+                        "userNick": "ᥫᩣ"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/6d53d2b8-f212-44ad-a090-4dfc3324bab6.jpg",
+                        "userNick": "三思"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220428/394de045-f2b5-4880-883f-c690de690f55.jpg",
+                        "userNick": "嘎嘎"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221020/e61843ed-b135-4925-8f11-74e588470588.jpg",
+                        "userNick": "Kilig"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fd9aa7",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1028340807364509835",
+                    "prizeName": "科颜氏高保湿面霜",
+                    "beginTime": "2022-10-12 00:00:00",
+                    "endTime": "2022-10-16 22:00:00",
+                    "openingTime": "2022-10-17 10:00:00",
+                    "winNum": "0206",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/4b4e47ec-2db7-42e4-8d2d-bc80923e2bb1.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/150a2264-4a09-454d-b58e-958435a28b20.png",
+                    "shareWord": "秋冬巨补水\uD83D\uDCA7【科颜氏高保湿面霜】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                    "prizeGoods": "科颜氏高保湿面霜（50ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fd9aa7",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/0b593dc5-c703-43af-9e9f-f89f2a843ddf.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/326b26f5-9519-44a1-83af-30fb6aafc62b.png"
+                },
+                "invitation": [],
+                "participantAmount": 226,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220505/0b6b5fd6-f86b-4af1-9013-118e4a0d0936.jpg",
+                        "userNick": "肥皂泡泡💨"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221016/cdb23ad7-7f5e-4955-adc8-1f4e5a0e09e1.jpg",
+                        "userNick": "Bestow"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221016/200c7a03-b7c5-48ca-88f5-e1ff02c864f9.jpg",
+                        "userNick": "月色"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221005/ffe1994b-8d77-43d3-9fa8-711b5c20f955.jpg",
+                        "userNick": "马尾马尾"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fcc2db",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1028340367285551242",
+                    "prizeName": "娇韵诗青春赋活精华水",
+                    "beginTime": "2022-10-10 00:00:00",
+                    "endTime": "2022-10-13 22:00:00",
+                    "openingTime": "2022-10-14 10:00:00",
+                    "winNum": "0413",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/d9d4bdfd-bf06-4c30-98bf-c0d5f44ec4cd.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/942c5e96-49f0-43fe-b834-d0a49ee6843a.png",
+                    "shareWord": "\uD83D\uDC95少女精华水！抗初老必备\uD83D\uDC49\uD83C\uDFFB【娇韵诗粉水】免费\uD83C\uDE50，集美们快冲>>>",
+                    "prizeGoods": "娇韵诗青春赋活精华水（200ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fcc2db",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/b6bc8106-56f4-42cc-9ea4-99f0e7d29e0a.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221008/1195166b-b5ab-4f59-9670-bc8397243a50.png"
+                },
+                "invitation": [],
+                "participantAmount": 141,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/dde4ecc0-e93a-47f6-b6dd-ac34ab1d1f2a.jpg",
+                        "userNick": "?"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220822/c869d940-7221-4b01-87c6-8d474c05948c.jpg",
+                        "userNick": "木子"
+                    },
+                    {
+                        "pic": "https://thirdwx.qlogo.cn/mmopen/vi_32/ia09eNhQrdiap66QFDoLE7rLojyRicSk2FRwcZd8M1Y2IUh2z61fyCOlpdQXdN0BQMibpJ4VLGZibtVEbhG82aNS56w/132",
+                        "userNick": "奶思兔儿"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221013/52046a61-074e-4bfc-bbac-2cd0c1301265.jpg",
+                        "userNick": "橙子不甜"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "b3e2fe",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1022462097784569993",
+                    "prizeName": "伊丽莎白雅顿绿茶身体乳",
+                    "beginTime": "2022-10-05 00:00:00",
+                    "endTime": "2022-10-09 22:00:00",
+                    "openingTime": "2022-10-10 10:00:00",
+                    "winNum": "0607",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/52539bab-ea13-40fe-8a84-b850bd2b7a31.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/42cd4c2e-0ec2-4964-bc74-bb2b3f944d1e.png",
+                    "shareWord": "✨精致的juju女孩\uD83D\uDC67\uD83C\uDFFB秋冬必备【伊丽莎白雅顿绿茶身体乳】免费\uD83C\uDE50，快戳\uD83D\uDC49\uD83C\uDFFB",
+                    "prizeGoods": "伊丽莎白雅顿绿茶身体乳（500ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "b3e2fe",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/6969b466-3a2a-434f-b119-a2e79f346297.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/23a6ec08-ca21-4bc1-97ab-5995ca473740.png"
+                },
+                "invitation": [],
+                "participantAmount": 168,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220928/8f95645a-902b-49c5-ad89-26a0ad268585.jpg",
+                        "userNick": "一周"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221009/594c40ea-dbb6-4cd5-986d-239bf54522c6.jpg",
+                        "userNick": "ㅤ"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221009/c7495fd3-0da8-4381-861b-414c29a7b665.jpg",
+                        "userNick": "心如天"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221009/e456b5e0-a9d3-4dc1-a5a3-4d3197a7d465.jpg",
+                        "userNick": "好人π"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "d0fecd",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1022459366759989384",
+                    "prizeName": "复活草水润面膜",
+                    "beginTime": "2022-09-28 00:00:00",
+                    "endTime": "2022-10-06 22:00:00",
+                    "openingTime": "2022-10-07 10:00:00",
+                    "winNum": "0105",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/2d93af32-2951-4ff3-be16-e97c62a08a64.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/93ae8c99-8094-4f58-be43-c19fb20e639d.png",
+                    "shareWord": "460倍超强补水力\uD83D\uDCA7李佳琦力推\uD83D\uDC49\uD83C\uDFFB【复活草水润面膜】免费抽❗快戳>>>",
+                    "prizeGoods": "复活草水润面膜（175ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "d0fecd",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/d2689c6e-9da9-4590-a75f-aac148253801.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/4a38d389-66f3-40b8-a5a5-2cbe06b0e77c.png"
+                },
+                "invitation": [],
+                "participantAmount": 283,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221006/39883109-2fde-4df1-94a8-1e61e1b00e21.jpg",
+                        "userNick": "比比安慕希"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221006/fd59af30-59e7-4847-987a-ba391c9f0e3e.jpg",
+                        "userNick": "ᥫᩣ.7in"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221006/1b27d3f8-f9b2-475a-8b78-440a395abed9.jpg",
+                        "userNick": "泡泡🐟"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221006/a4071440-16c0-4a4e-95ab-7259281e8023.jpg",
+                        "userNick": "槐安"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220930/1c2dee8c-6d93-4576-8936-ea03929974a5.jpg",
+                        "userNick": "离白衬衫越来越远"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "b2c8ff",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1022449960601256071",
+                    "prizeName": "植村秀琥珀洁颜油",
+                    "beginTime": "2022-09-26 00:00:00",
+                    "endTime": "2022-09-29 22:00:00",
+                    "openingTime": "2022-09-30 10:00:00",
+                    "winNum": "1314",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/a768402f-ebcc-4451-977f-0ee85b7483df.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/04824757-746f-4843-8acd-5a7b692273b0.png",
+                    "shareWord": "卸妆天花板✨巨好用\uD83D\uDC4C\uD83C\uDFFB【植村秀琥珀洁颜油】免费\uD83C\uDE50，集美们赶紧冲>>>",
+                    "prizeGoods": "植村秀琥珀洁颜油(150ml)",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "b2c8ff",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/1f0c94ea-4976-427e-96e7-6372eff305d0.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220922/fd12d898-0766-44fe-a9d2-abf8faa8418e.png"
+                },
+                "invitation": [],
+                "participantAmount": 195,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220814/fe83e5ed-aa57-4115-98b5-61fb39bf1797.jpg",
+                        "userNick": "゜小栗子"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220610/abcdceb3-cb27-4571-8987-c1dea5153540.jpg",
+                        "userNick": "涛"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220929/1cca3bbc-6a47-4084-84c8-93f44d20b133.jpg",
+                        "userNick": "R."
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220925/bfac58c1-d7f2-4112-b3db-85affc019a10.jpg",
+                        "userNick": "洋洋子"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "cbbcfe",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1020014947968483462",
+                    "prizeName": "黛珂牛油果紫苏水套装",
+                    "beginTime": "2022-09-21 00:00:00",
+                    "endTime": "2022-09-25 22:00:00",
+                    "openingTime": "2022-09-26 10:00:00",
+                    "winNum": "0210",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/96b75f16-c4b0-49e8-b116-2d9b3996a40d.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/bceaf5b0-bea5-423f-85b8-1efb5720d4b3.png",
+                    "shareWord": "\uD83D\uDCAF完美CP！【黛珂牛油果紫苏水套装】免费\uD83C\uDE50，赶紧一起来参加❗",
+                    "prizeGoods": "黛珂牛油果紫苏水套装（150ml+150ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "cbbcfe",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/5821b7ce-2383-41d1-891d-7241b39a34c1.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/fd423964-2a79-4d81-a2da-fa4dad887e96.png"
+                },
+                "invitation": [],
+                "participantAmount": 241,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/a81e38e4-3b80-4884-aeaa-d3d15cf4d340.jpg",
+                        "userNick": "QW"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220925/a76b2dcd-1371-4008-9b21-f8ad5e554206.jpg",
+                        "userNick": "阿蕾."
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220801/4743dbc5-f1c9-42a3-b3d9-9e6492f585b2.jpg",
+                        "userNick": "诺扬candy"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220925/7899b5e6-824a-4216-9ad2-e346eba8710c.jpg",
+                        "userNick": "W"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "bee2fc",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1020014153210790021",
+                    "prizeName": "理肤泉B5多效保湿面膜",
+                    "beginTime": "2022-09-19 00:00:00",
+                    "endTime": "2022-09-22 22:00:00",
+                    "openingTime": "2022-09-23 10:00:00",
+                    "winNum": "0913",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/58388017-0dbf-4716-89ac-eaa1c85f4d6d.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/33815a14-b8cf-4472-bcd7-879e422b267c.png",
+                    "shareWord": "敏感肌救星✨【理肤泉B5多效保湿面膜】免费\uD83C\uDE50，大家快冲鸭\uD83D\uDC49\uD83C\uDFFB",
+                    "prizeGoods": "理肤泉B5多效保湿面膜（2盒）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "bee2fc",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/6666d3f0-f02a-412d-82cf-8926e73862ad.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220915/326c10aa-0e60-4564-8758-5057395a8505.png"
+                },
+                "invitation": [],
+                "participantAmount": 224,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/bcca110e-4968-4e68-84ba-b4c09285c0f4.jpg",
+                        "userNick": "・M・"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/3922df0f-0dbe-4db9-bcf6-56c937a8e2b0.jpg",
+                        "userNick": "六尺之下"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220922/1fd044fd-5c69-414d-a92c-442605f476db.jpg",
+                        "userNick": "nnnday!"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220921/075cb2c6-ccc3-457c-b94d-7d4d8a70b518.jpg",
+                        "userNick": "🐰"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "bcd4fe",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1017734143401787524",
+                    "prizeName": "科颜氏高保湿面霜",
+                    "beginTime": "2022-09-14 00:00:00",
+                    "endTime": "2022-09-18 22:00:00",
+                    "openingTime": "2022-09-19 10:00:00",
+                    "winNum": "0107",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/04b267ef-38d4-46fd-9e54-58c436dee6e1.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/f6be8177-9731-4fb3-9179-9835e89ee3e5.png",
+                    "shareWord": "拯救沙漠大干皮❗巨巨巨补水\uD83D\uDCA6【科颜氏高保湿面霜】免费\uD83C\uDE50，集美们快冲鸭>>>",
+                    "prizeGoods": "科颜氏高保湿面霜（50ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "bcd4fe",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/8985e044-52cb-4d32-9779-7b9d4773f286.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/ecddeb49-406b-4025-bc15-e03ebaecbd23.png"
+                },
+                "invitation": [],
+                "participantAmount": 338,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220917/560bf3e6-ad4c-4f71-b9da-bf709f0fbda3.jpg",
+                        "userNick": "小尾巴 "
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220914/ea9eac3e-fd22-4e67-955d-4ab59c4c2d8e.jpg",
+                        "userNick": "YANGYANG."
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220918/f9cb38b0-0b8b-4142-8f17-5b2c5bf2a4c2.jpg",
+                        "userNick": "🍃"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220911/dcad1c19-47f5-41f0-ac96-166105cd8593.jpg",
+                        "userNick": "MJY"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220730/46c905cc-ae54-40d4-9787-59a05d5f3cec.jpg",
+                        "userNick": "田歘歘"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "bfe6fe",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1017732390690226307",
+                    "prizeName": "玫珂菲HD无痕蜜粉",
+                    "beginTime": "2022-09-12 00:00:00",
+                    "endTime": "2022-09-15 22:00:00",
+                    "openingTime": "2022-09-16 10:00:00",
+                    "winNum": "0309",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/0e4c4cab-c91d-4860-adeb-6b0d56f8c6d6.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/75b38487-bd1b-4b92-8b59-c94ab86503d5.png",
+                    "shareWord": "\uD83D\uDCAB高能磨皮神器！一秒隐形毛孔\uD83D\uDC49\uD83C\uDFFB【玫珂菲HD无痕蜜粉】免费抽❗赶紧一起来参加>>>",
+                    "prizeGoods": "玫珂菲HD无痕蜜粉（8.5g）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "bfe6fe",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/b81314d6-17a7-46a3-b2df-83da45a73094.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220909/a233f819-d1ae-4f3b-962d-6e96009503de.png"
+                },
+                "invitation": [],
+                "participantAmount": 261,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220903/8a7eff0d-d9c0-444d-9d1d-7f5acb1a0788.jpg",
+                        "userNick": " 小瓶盖泰山原浆*婚礼跟拍*母婴"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220908/280fdccd-4e55-47aa-b837-7f2299962b1f.jpg",
+                        "userNick": "天天睡不醒"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220616/c4c3b3ef-6e08-4ffd-8f9a-3f1e624d2e25.jpg",
+                        "userNick": "-沃野"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220915/8113d0ea-1f17-4f55-aa23-9e5cf79419e8.jpg",
+                        "userNick": "提拉米苏女士"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220907/12252ec5-96e4-442f-abfc-30703f1a61af.jpg",
+                        "userNick": "🤐"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fda98c",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1014910453769306242",
+                    "prizeName": "雅诗兰黛小棕瓶眼霜",
+                    "beginTime": "2022-09-07 00:00:00",
+                    "endTime": "2022-09-11 22:00:00",
+                    "openingTime": "2022-09-12 10:00:00",
+                    "winNum": "0612",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/f657bde3-0a20-47c1-9b52-c4f963452609.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/3cb6fbdd-9c19-4c5f-a374-f3ea20cd6c7d.png",
+                    "shareWord": "眼部抗老抗氧化❗一瓶搞定\uD83D\uDC49\uD83C\uDFFB【雅诗兰黛小棕瓶眼霜】免费\uD83C\uDE50，快戳>>>",
+                    "prizeGoods": "雅诗兰黛小棕瓶眼霜（15ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fda98c",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/b2abbd3f-f365-416b-a20d-151689d1496f.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/949ed8bd-a02a-4ac6-89d1-e1769785d102.png"
+                },
+                "invitation": [],
+                "participantAmount": 252,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220911/6cb1a4ad-7c7b-44b6-9400-61445a0c6d7c.jpg",
+                        "userNick": "深呼吸"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220907/2b2e9d22-2c52-4a94-b567-89719b8f87f7.jpg",
+                        "userNick": "Dawn"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220911/a3928832-81f2-4ee4-8c0c-fb25d15d44ee.jpg",
+                        "userNick": "燕子"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220911/02a0c7c2-6dd2-4d1e-8e5a-ef96669ea469.jpg",
+                        "userNick": "AEBD."
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fece91",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1014909637029265537",
+                    "prizeName": "衰败城市眼影盘",
+                    "beginTime": "2022-09-05 00:00:00",
+                    "endTime": "2022-09-08 22:00:00",
+                    "openingTime": "2022-09-09 10:00:00",
+                    "winNum": "0108",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/ca1961ae-aef7-466b-bf67-c9c44cfd1810.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/a280780c-8421-4218-8ef6-4a6f9f18784f.png",
+                    "shareWord": "✨爆闪预警！\uD83D\uDC1D绝美蜂蜜盘\uD83D\uDC49\uD83C\uDFFB【衰败城市（Naked Honey）】免费抽❗快戳>>>",
+                    "prizeGoods": "衰败城市眼影盘（Naked Honey）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fece91",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/5fb7acb7-0894-4949-960c-a2ca7a190717.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220901/eb26e4d3-63bf-404b-ad4b-7c951646b4e5.png"
+                },
+                "invitation": [],
+                "participantAmount": 208,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220506/c7b661ab-63b2-43aa-aa52-4ab2060314b5.jpg",
+                        "userNick": "@怡人不吃香菜"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220908/747416f0-041f-40bc-ae25-fb4d8c606926.jpg",
+                        "userNick": "卜呐呐不吃🍅"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220907/5d973698-bf5c-44ac-a75c-83db227b0c0b.jpg",
+                        "userNick": "虾仁不眨眼."
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220824/aedab81b-c3ce-44ff-9d45-3a32dd96c370.jpg",
+                        "userNick": "是奆奆啊"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220906/d9066840-1d01-4511-9669-889ef5754653.jpg",
+                        "userNick": "DDD"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            },
+            {
+                "tick": 0,
+                "bgcolor": "fddba5",
+                "tickNum": [],
+                "prizeInfo": {
+                    "prizeId": "1012329359970664576",
+                    "prizeName": "欧莱雅小蜜罐面霜",
+                    "beginTime": "2022-08-31 00:00:00",
+                    "endTime": "2022-09-04 22:00:00",
+                    "openingTime": "2022-09-05 10:00:00",
+                    "winNum": "0910",
+                    "prizeLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/d1e36a55-ccb2-4b61-b3ae-32720e7d361f.png",
+                    "shareLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/236ed12d-7c92-42e7-90d8-9465b365bc93.png",
+                    "shareWord": "拯救松垮脸⚠️贵妇级抗老\uD83D\uDC49\uD83C\uDFFB【欧莱雅小蜜罐面霜】免费\uD83C\uDE50，一起冲鸭>>>",
+                    "prizeGoods": "欧莱雅小蜜罐面霜（50ml）",
+                    "tips": "超多活动ing！",
+                    "bgcolor": "fddba5",
+                    "listLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/6d8a857c-47d8-4f2b-b3da-c80337df9943.png",
+                    "detailLogo": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20220825/9d126806-f103-4e1f-8b12-39f4376d272b.png"
+                },
+                "invitation": [],
+                "participantAmount": 307,
+                "participantList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220802/b052f691-d211-4bee-bffd-444a64246223.jpg",
+                        "userNick": "H."
+                    },
+                    {
+                        "pic": "https://thirdwx.qlogo.cn/mmopen/vi_32/OTZxxnBjIfWToHycsjSfGHFx1larFmNMryN0GIvb6rnqmBiauCwEkmGickAMwct3rt4pt1atBWYFHPSb7qmAAhHw/132",
+                        "userNick": "空桑"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220903/f9e89fbb-4472-4bc7-aed2-f1422832c64e.jpg",
+                        "userNick": "ᴘᴇᴘsɪ"
+                    },
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220904/a23268cb-0499-482b-8e36-e9f81b206527.jpg",
+                        "userNick": "盐焗小星球🍩"
+                    }
+                ],
+                "winnerList": [
+                    {
+                        "pic": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221014/ae176093-8117-40c8-b402-4820d971190e.jpg",
+                        "userNick": "猪仔的豆泥"
+                    }
+                ],
+                "status": 2,
+                "first": false,
+                "submitAddress": true,
+                "winning": false
+            }
+        ]
+    }
+}

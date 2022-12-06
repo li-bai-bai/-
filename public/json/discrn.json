@@ -1,0 +1,466 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "userId": "581439180379258900",
+            "sysUserId": "330005500844310528",
+            "nickName": "维叔",
+            "headImgUrl": "http://image.weijianapp.com/artcloud-app-mgr-provider-user/20190711/676e7d52-3280-43ee-a854-39e4ea9bd5a9.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "化妆品·护肤品·香水\nMAC/TF/阿玛尼/圣罗兰\n中检持证鉴定师\n累计鉴别产品25w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "602976057405998618",
+            "sysUserId": "338406133637054464",
+            "nickName": "喜",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221017/b4de126f-d5ae-436a-9faf-38624882bf13.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：护肤品·口红\nSK-II/黛珂/MAC/雅诗兰黛/兰蔻\n中检持证鉴定师\n累计鉴别产品40w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "581427330648375309",
+            "sysUserId": "337550993145200640",
+            "nickName": "del",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220928/693a5011-1a2c-4cf5-8b5a-d85f43322eab.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：各大牌口红\n专攻MAC子弹头口红\n子弹头鉴别小能手，熟知各版本假货\n累计鉴别产品10w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "581427467168776206",
+            "sysUserId": "337550388913766400",
+            "nickName": "tt",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20221027/75ea748f-46f6-4450-889e-bdbfd6fbe592.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：各大品牌美妆\nYSL/TF/阿玛尼/雅诗兰黛\n美妆鉴别老司机，一鉴一准\n累计鉴别产品8w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "698125858623194310",
+            "sysUserId": "338056442089046016",
+            "nickName": "拾㭍",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200819/b13a1da5-93ed-43c9-906a-f8040d994e1a.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "中检持证鉴定师\n全能型鉴别小能手，假货在我眼前无处可遁",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "581458446444920904",
+            "sysUserId": "338321832723611648",
+            "nickName": "蕾欧娜",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200317/3d8f8cd6-aeb1-44ca-ab8c-41d34e804298.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "专注中高端护肤品\n线上各美妆平台达人合作\n线下多间实体店美妆鉴定师\n为正品保驾护航",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "613017716302809115",
+            "sysUserId": "338357228140494848",
+            "nickName": "菲儿",
+            "headImgUrl": "http://image.weijianapp.com/artcloud-app-mgr-provider-user/20190711/75dd3e38-39d3-44d3-8f71-2b1654b80000.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "专攻迪奥/SK-ll/纪梵希/TF热门大牌\n喜欢测评明星单品！\n累计鉴别10w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "581445626475053103",
+            "sysUserId": "338356229275385856",
+            "nickName": "小平头",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20191226/c3847d38-a788-4324-8d32-9ff4d2e38606.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：YSL、TF、阿玛尼、雅诗兰黛和日韩热门底妆。常驻抖音平台，开设「小平头鉴别小课堂」，抖音号：WJXPT，欢迎大家来关注！",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "722497583758443124",
+            "sysUserId": "338409873823760384",
+            "nickName": "七喜",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200702/be192b22-e0ef-4b0a-99ad-926facba0e73.JPG",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：各类中高端品牌产品\n爱马仕/古驰/香奈儿/宝格丽\n虽然长着一张面瘫脸，却拥有一颗大妈心，高冷，技术宅，能力强。要求图片清晰，严禁拼图哦",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "686625992277493759",
+            "sysUserId": "458996668503687168",
+            "nickName": "蒂芙尼",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200420/c24cb93c-cc6b-49d7-943a-ba655f440bba.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：SK-II/黛珂/MAC/雅诗兰黛/兰蔻等热门品牌。\n一种缘份让我爱上美妆，让美丽的你们不被假货困扰。\n只要你回头，我一直都在。\n累计鉴别5w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "693406141425647727",
+            "sysUserId": "458998519399710720",
+            "nickName": "柯北",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200420/878c28cf-88b4-433c-b0a0-7014f51da348.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：Mac/TF/阿玛尼/圣罗兰等\n麻烦动动小手对焦一下拍得清晰完整喔，三克油",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "782609409254621950",
+            "sysUserId": "539803157786525696",
+            "nickName": "潇洒哥",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20201129/bf87ef20-f6d8-42cb-84f3-65f177161d5c.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "从业美妆行业多年，资深美妆鉴定专家\n中检持证鉴定师\n累计实物鉴别5w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "782299720289617971",
+            "sysUserId": "540530782192533504",
+            "nickName": "乐瑶",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20201216/122c9603-8d99-4274-9c95-cc5595c93ce5.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：雅诗兰黛、兰蔻、阿玛尼、圣罗兰等中高端品牌产品。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "787368284331704530",
+            "sysUserId": "541271407347105792",
+            "nickName": "爱德华",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20201221/ee211ea6-12cd-4375-b81b-a4d037ed673a.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：MAC、雅诗兰黛、海蓝之谜等品牌美妆护肤类产品。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "797820927315282214",
+            "sysUserId": "564477300842692608",
+            "nickName": "Br.",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220826/0f06b992-012f-46cd-bce0-c2ca29903a37.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：热门日韩品牌\n黛珂/爱敬/CPB/IPSA\n每日处理实物鉴别订单100+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "815515253432387145",
+            "sysUserId": "573150809395560448",
+            "nickName": "葡萄紫了",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210301/10edc0df-9cd1-42d1-8e5f-a5941b1a9802.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：口红·护肤品·化妆品\nYSL全系列口红/后WHOO/TF/SK-ll\n人称热门品牌鉴别小行家",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "816237335195681834",
+            "sysUserId": "573907338801446912",
+            "nickName": "A",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220730/cbf0d11e-bffb-4772-b54f-978c2acd2950.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别品类：口红\n可鉴别品牌：雅诗兰黛·阿玛尼·YSL·TF",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "816605945529371046",
+            "sysUserId": "574635746443395072",
+            "nickName": "蛮小吉",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210305/7319d1d6-f8a2-464c-bb08-09a9c0db276a.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别:彩妆各大品牌\n主打YSL/NARS/GUCCI/迪奥\n累计鉴别5w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "755846357327022724",
+            "sysUserId": "596636343832936448",
+            "nickName": "一只魚ovovo",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210505/bc65c171-c997-421f-a651-93a2b21ba10b.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别品牌：雅诗兰黛·阿玛尼·YSL·TF·CPB·黛珂·纪梵希·香奈儿等各种知名品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "803031053814989816",
+            "sysUserId": "608265437737648128",
+            "nickName": "Wendy",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210606/61fe3964-aba7-42f9-8814-df3d1a2d40ca.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别ysl，cpb，纪梵希，Dior，黛珂，阿玛尼等各种知名品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "719265880554343922",
+            "sysUserId": "620315287698276352",
+            "nickName": "Salsa",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210711/bc4b04b4-6216-4214-af9d-6a57ad07e2ba.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：宝格丽/爱马仕/香奈儿/古驰/范思哲/圣罗兰/迪奥等各种品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "860445788768045844",
+            "sysUserId": "620952758119301120",
+            "nickName": "奶茶",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210711/b393202a-7b65-4522-854c-01ac800bbe8c.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：雅诗兰黛/黛珂/香奈儿/海蓝之谜/等各种品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "880189366075392086",
+            "sysUserId": "636870777316048896",
+            "nickName": "陈咩咩",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210824/ca90add3-9312-45c7-bf1c-fa7f3cf71a95.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：阿玛尼·圣罗兰·希思黎·海蓝之谜·欧莱雅·纪梵希·香奈儿等各种知名美妆品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "841299678606656567",
+            "sysUserId": "653575478602366976",
+            "nickName": "一粒维c",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211009/30a04915-de36-4ea2-b7e7-b8397f8db95b.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "化妆品·护肤品·香水\nMAC/TF/阿玛尼/圣罗兰\n中检持证鉴定师\n累计鉴别产品18W+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "802872939279024152",
+            "sysUserId": "653575840973455360",
+            "nickName": "小陈同学",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211009/2153863f-e970-43c1-8576-0a929cbb52c3.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：各大品牌美妆\nYSL/TF/阿玛尼/雅诗兰黛\n美妆鉴别老司机，一鉴一准\n累计鉴别产品8w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "910465404193737851",
+            "sysUserId": "671691725831405568",
+            "nickName": "小飞侠",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211128/a1e3cda2-b4e5-458b-90ed-fc8ece00079f.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：TF/阿玛尼/圣罗兰等\n麻烦动动小手对焦一下拍得清晰完整喔，三克油",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "823290552752537918",
+            "sysUserId": "670264489559457792",
+            "nickName": "蜜桃可可",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/d646bbff-b32f-43c6-b317-812e55b7f643.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：各大品牌美妆\n雅诗兰黛/SK-II/圣罗兰等\n专攻美妆鉴别，熟识各类细节",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "913066893651215235",
+            "sysUserId": "670265728456196096",
+            "nickName": "小魚小魚",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/9c7dcb55-02f6-4cf3-9979-fc3ad05f9063.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "从事鉴别行业6年，专业过硬从未失手。\n个人slogan：让假货商无处可逃！",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "907214964928809896",
+            "sysUserId": "670266688750485504",
+            "nickName": "小熊行星",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/d463135f-861c-4bb3-bd9c-e7227c824f22.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：/TF/阿玛尼/圣罗兰等\n麻烦动动小手对焦一下拍得清晰完整喔，三克油",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "783627431184436128",
+            "sysUserId": "557638901825536000",
+            "nickName": "Senuxi辉",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210117/5aea81be-5fe7-4b51-ab1b-5fccbdb37535.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：卡西欧/阿玛尼/DW/浪琴\n专注时尚品牌手表鉴别，实战经验丰富\n累计鉴别2w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "802964881476161345",
+            "sysUserId": "560161176550375424",
+            "nickName": "yoyo",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210124/3d47012a-74c0-468b-8518-adb7dd627760.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别: 施华洛世奇全系列",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "762727710282746934",
+            "sysUserId": "642320398624489472",
+            "nickName": "佳HyGge",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210908/a2b39eee-4d61-4493-bcf9-a044bf332bba.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "专业鉴别小CK箱包\n鉴定数量超15W+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "950370555515634044",
+            "sysUserId": "783329399599529984",
+            "nickName": "粥粥",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20221002/4af55301-303f-4f7e-ad5c-14d8115197ad.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：雅诗兰黛/黛珂/香奈儿/海蓝之谜/等各种品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "799310753747176240",
+            "sysUserId": "557599628820742144",
+            "nickName": "梓萌",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210117/2f456238-3914-4c8c-9073-6b54ddab33c1.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\nLV/GUCCI/CELINE/MCM\n奢侈品箱包全系列·资深鉴别专家\n累计鉴别产品3w+",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "798596637852174772",
+            "sysUserId": "556533123966304256",
+            "nickName": "弟弟不太小",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210114/c5d49371-baa0-43e9-831a-d85cbbecddb0.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "曾赴日本留学深造奢侈品鉴定技术\n担任维鉴箱包/配饰鉴定师\n中检持证鉴定师",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "800399439238791277",
+            "sysUserId": "557590399384813568",
+            "nickName": "你狐弟",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210117/e52cafd0-ee13-4574-8192-b753d0c31383.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包·配饰\nGUCCI、LV、MCM箱包全系列， GUCCI配饰全系\n杭州某鉴定机构高级鉴定师，超过6年实战鉴定经验，10万+货品阅目量，致力于为中国奢侈品行业培训出更多更优秀的鉴定师。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "805862421670397023",
+            "sysUserId": "563062217931489280",
+            "nickName": "Ticomty",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20210629/2325fd5b-2c99-4a7f-b557-52d4b9f26706.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\nBurberry·LV，品牌箱包全系列",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "805843855952842340",
+            "sysUserId": "563055594387275776",
+            "nickName": "鲁路修",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210201/d0e52f63-e09f-4785-b34f-d0d2670902cb.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\n博柏利（Burberry）\n从事奢侈品鉴定行业9年,专注Burberry箱包全系列\n已成立个人鉴别工作室，线下担任多家奢侈品机构常驻鉴定顾问，活跃在网络上各个鉴别平台，拥有非常丰富的实战经验。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "803691118876165403",
+            "sysUserId": "560890781137633280",
+            "nickName": "豆儿",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210126/1be46593-4ce7-49ed-ade9-29f615f49a91.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\n专注MCM品牌箱包全系列",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "802192632938758614",
+            "sysUserId": "559392137800581120",
+            "nickName": "于大咪",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-boss-provider-user/20220810/70ffdabd-c954-46f9-a850-1626f65bd3f3.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\nMCM全系列箱包\n曾在MCM工作5年,专注MCM品牌，深入学习鉴别知识。资深MCM专业鉴别鉴定师，鉴别超万余次。对于此品牌箱包积累了大量的鉴别实战经验,希望可以帮助到广大用户。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "805893373540961945",
+            "sysUserId": "563092381151264768",
+            "nickName": "文文",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210922/8f1adb66-1ecb-4514-9203-9cceb2a3df6f.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：博柏利Burberry箱包全系列\n曾在Burberry集团工作多年，拥有丰富的实战经验，假货一眼露馅！",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "8010793216 81e 85918648",
+            "sysUserId": "558278394588954624",
+            "nickName": "野生奈Viii",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210119/1008999e-5709-4183-9a4b-f6b70da9d7ca.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：箱包\nCHARLES&KEITH箱包全系列\n专注CHARLES&KEITH品牌",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "805849368740498953",
+            "sysUserId": "563047986825789440",
+            "nickName": "绵绵",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210226/61aaec79-0bec-4213-9fbf-f524c628dbe8.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：CHARLES&KEITH全系列包包\n曾深入学习CHARLES&KEITH箱包品牌,在CHARLES&KEITH专柜工作3年,CHARLES&KEITH品牌资深鉴定师,鉴别超万余次。对于此品牌箱包有着独到的鉴别实战经验，积累了大量的鉴定经验,希望可以帮助到广大用户。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "801080661065598013",
+            "sysUserId": "558277575651098624",
+            "nickName": "虾仁",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210119/a5d0f2ee-b57f-4176-b94e-79ad8b9132a5.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：CHARLES&KEITH全系列",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "799967561637692522",
+            "sysUserId": "559063615424954368",
+            "nickName": "爱丽丝",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210121/2d9a0088-bb0e-4f70-b67d-f76a5d6f0b62.jpg",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：配饰\n施华洛世奇全系列\n从事饰品研究鉴定师行已7年，擅长于施华洛世奇首饰专业鉴别，国内连锁机构合作鉴定师。",
+            "briefIntroduction": null
+        },
+        {
+            "userId": "801877098363880386",
+            "sysUserId": "559128933518278656",
+            "nickName": "萱萱",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210121/93f4802c-0dc9-4a61-b794-0bc0c03b644b.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": "可鉴别：配饰\n施华洛世奇全系列/APM全系列\n人称搭配小能手，专注配饰鉴别",
+            "briefIntroduction": null
+        }
+    ]
+}

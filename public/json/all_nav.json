@@ -1,0 +1,230 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "seriesId": "733420751004107680",
+            "parentId": "0",
+            "name": "彩妆",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200716/fa513789-b7f5-4927-b62c-c0cad2083d36.jpg",
+            "childs": [
+                {
+                    "seriesId": "710064112838639647",
+                    "parentId": "733420751004107680",
+                    "name": "口红",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/f42dfc9b-b50f-4cbd-8b43-d3d562937ecb.png"
+                },
+                {
+                    "seriesId": "710063255539679248",
+                    "parentId": "733420751004107680",
+                    "name": "粉底液",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/a0de25b0-aebb-467e-b12e-db7d4dc1e8a0.png"
+                },
+                {
+                    "seriesId": "710065565141565483",
+                    "parentId": "733420751004107680",
+                    "name": "香水",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/beaccc1e-238c-4112-8f53-aa7cb39cb6f7.png"
+                },
+                {
+                    "seriesId": "710066011792998455",
+                    "parentId": "733420751004107680",
+                    "name": "眼影",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/e76256f4-47b2-44f5-9f69-502894e02672.png"
+                },
+                {
+                    "seriesId": "710063786370793490",
+                    "parentId": "733420751004107680",
+                    "name": "散粉",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/ca8f07e5-06d4-435a-9d15-2f0abf87483a.png"
+                },
+                {
+                    "seriesId": "710064515902865446",
+                    "parentId": "733420751004107680",
+                    "name": "气垫",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/855b09d3-0e23-4ea9-894f-3779778e0184.png"
+                },
+                {
+                    "seriesId": "710066126679179321",
+                    "parentId": "733420751004107680",
+                    "name": "隔离",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/fe44a086-0365-4edd-8da3-38f676ad24b0.png"
+                },
+                {
+                    "seriesId": "784423454551049404",
+                    "parentId": "733420751004107680",
+                    "name": "粉饼",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/9fa74df7-8843-483f-a8f5-447112e96037.png"
+                },
+                {
+                    "seriesId": "710066077660348472",
+                    "parentId": "733420751004107680",
+                    "name": "遮瑕",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/26a58553-3596-44a2-8d6c-7064e22c3196.png"
+                },
+                {
+                    "seriesId": "710063352138694673",
+                    "parentId": "733420751004107680",
+                    "name": "高光",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/0a609b78-8fa4-40bb-970a-a51d6495d794.png"
+                },
+                {
+                    "seriesId": "710065010163843112",
+                    "parentId": "733420751004107680",
+                    "name": "腮红",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/fcffb548-dc31-4bb3-844e-e5f759d3d0ed.png"
+                },
+                {
+                    "seriesId": "784455353990383583",
+                    "parentId": "733420751004107680",
+                    "name": "定妆喷雾",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/47eb946e-8f3b-45b4-a639-9238749dbaba.png"
+                },
+                {
+                    "seriesId": "710065959418724398",
+                    "parentId": "733420751004107680",
+                    "name": "眼线笔",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/7f5e8344-1b5d-4224-9c41-4f3ddeac3dfb.png"
+                },
+                {
+                    "seriesId": "710063986875301917",
+                    "parentId": "733420751004107680",
+                    "name": "睫毛膏",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/db4bb9dc-2729-40f2-b237-2dd49acf1a6a.png"
+                },
+                {
+                    "seriesId": "710064209274077216",
+                    "parentId": "733420751004107680",
+                    "name": "眉笔",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/6acf37ba-6bab-40c3-8938-90f6d9e0c4aa.png"
+                }
+            ]
+        },
+        {
+            "seriesId": "733421374764221352",
+            "parentId": "0",
+            "name": "护肤",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200716/f12d0ea0-7192-4247-a693-35ed9fed2594.jpg",
+            "childs": [
+                {
+                    "seriesId": "710063936887586844",
+                    "parentId": "733421374764221352",
+                    "name": "化妆水",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/16a177fe-7b0a-4e54-bf0e-88df5bb720fb.png"
+                },
+                {
+                    "seriesId": "710064063844974622",
+                    "parentId": "733421374764221352",
+                    "name": "精华",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/349d218e-1a91-4ba0-b702-152e6ca59a6b.png"
+                },
+                {
+                    "seriesId": "710063893740781595",
+                    "parentId": "733421374764221352",
+                    "name": "护肤套装",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/19805337-214a-4288-bced-1b79bc62a551.png"
+                },
+                {
+                    "seriesId": "710064414325211172",
+                    "parentId": "733421374764221352",
+                    "name": "面霜",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/61da0dc2-bf8c-45b3-a2ed-ea22d5fe2991.png"
+                },
+                {
+                    "seriesId": "710064298956685346",
+                    "parentId": "733421374764221352",
+                    "name": "面膜",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/01fc6a83-6194-4eb9-9ed2-d48df8064499.png"
+                },
+                {
+                    "seriesId": "710064631141367847",
+                    "parentId": "733421374764221352",
+                    "name": "乳液",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/8ddbd3fb-1133-4a7e-a156-c586146ac193.png"
+                },
+                {
+                    "seriesId": "710065906675351597",
+                    "parentId": "733421374764221352",
+                    "name": "眼霜",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/73d3a320-410f-43d2-8b81-f055c2083759.png"
+                },
+                {
+                    "seriesId": "710065854464655404",
+                    "parentId": "733421374764221352",
+                    "name": "卸妆洁面",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/d4dc7419-248d-4b3a-a0a7-f4e4f74a77ce.png"
+                },
+                {
+                    "seriesId": "710063192738365455",
+                    "parentId": "733421374764221352",
+                    "name": "防晒",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/dd1d5af4-5fc6-46c2-b861-27cebf95b13b.png"
+                },
+                {
+                    "seriesId": "710062815502663694",
+                    "parentId": "733421374764221352",
+                    "name": "唇部护理",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/7c8cb490-62a3-4a3e-b018-8867f8a7d32e.png"
+                },
+                {
+                    "seriesId": "710064459598528549",
+                    "parentId": "733421374764221352",
+                    "name": "男士护肤",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/a3e89c49-2b08-43f5-9a8f-715e3816e777.png"
+                },
+                {
+                    "seriesId": "717044258850211118",
+                    "parentId": "733421374764221352",
+                    "name": "眼膜",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/5fc6461e-4c79-4a7d-b749-64a3790b1603.png"
+                }
+            ]
+        },
+        {
+            "seriesId": "733421440296027049",
+            "parentId": "0",
+            "name": "个护",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200716/5840fc16-a3c4-4f73-a446-dd605ca68eb2.png",
+            "childs": [
+                {
+                    "seriesId": "710065087116738601",
+                    "parentId": "733421440296027049",
+                    "name": "身体护理",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/991821fb-1b65-4647-a308-93b08fb23826.png"
+                },
+                {
+                    "seriesId": "710065146013155370",
+                    "parentId": "733421440296027049",
+                    "name": "手部护理",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/2f76a530-7f50-4b2e-b1df-1e764e095729.png"
+                },
+                {
+                    "seriesId": "791428820941933260",
+                    "parentId": "733421440296027049",
+                    "name": "洗护",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/0adbe58d-bd5b-437f-9a6c-2b6f60b3efe0.png"
+                }
+            ]
+        },
+        {
+            "seriesId": "733421567643484761",
+            "parentId": "0",
+            "name": "美妆工具",
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200716/adceeb57-2ff5-4b4f-b911-474cca70a92a.png",
+            "childs": [
+                {
+                    "seriesId": "710063830884941843",
+                    "parentId": "733421567643484761",
+                    "name": "化妆工具",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/920957ad-a4e2-49a2-abe4-caf976555b63.png"
+                },
+                {
+                    "seriesId": "710064255075876897",
+                    "parentId": "733421567643484761",
+                    "name": "美容仪",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/99fe9c9b-847c-47bd-abbc-262424bacaf9.png"
+                }
+            ]
+        }
+    ]
+}

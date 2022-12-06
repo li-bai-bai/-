@@ -1,0 +1,161 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": {
+        "seckillId": "1034069373825845014",
+        "title": "限时折扣",
+        "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20221024/1a6fbd61-ba36-4015-9c6a-e924c63071d5.png",
+        "backgroundColor": "#5A1FC2",
+        "startTime": "2022-11-04 00:00:00",
+        "endTime": "2022-11-04 23:59:59",
+        "tomorrowStartTime": "2022-11-05 00:00:00",
+        "tomorrowEndTime": "2022-11-05 23:59:59",
+        "currentCommodityParams": [
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373842622232",
+                "singleId": "756254586599115687",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200917/e5dfb924-1344-4ad4-b61a-66f23f45a9ac.jpg",
+                "commodityName": "红茶酵母酵萃精华液",
+                "brandName": "Fresh/馥蕾诗",
+                "standardValue": "150ml",
+                "seckillPrice": 249.00,
+                "originalPrice": 479.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373855205147",
+                "singleId": "715518621190719639",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200528/fd4a2d09-eaf9-4d5d-8787-72a939024648.jpg",
+                "commodityName": "小灯泡精华",
+                "brandName": "SK-II",
+                "standardValue": "50ml",
+                "seckillPrice": 770.00,
+                "originalPrice": 879.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373867788 c8d 062",
+                "singleId": "755827330936472804",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200916/ad2aa501-bc52-4902-8c46-3d34900c3577.jpg",
+                "commodityName": "痘肌水乳",
+                "brandName": "网红cp",
+                "standardValue": "有油黄油125g+菌菇水200ml",
+                "seckillPrice": 209.00,
+                "originalPrice": 329.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373880370977",
+                "singleId": "737338778112232523",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200727/1df5ad55-04de-4490-817f-ed38b275dc59.jpg",
+                "commodityName": "金钻修颜粉饼10g",
+                "brandName": "GUERLAIN/娇兰",
+                "standardValue": "#00/瓷白色 ",
+                "seckillPrice": 389.00,
+                "originalPrice": 569.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373892953892",
+                "singleId": "737338778116426832",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200727/c4799756-a821-4be1-b60e-84f8767ef1a0.jpg",
+                "commodityName": "金钻修颜粉饼10g",
+                "brandName": "GUERLAIN/娇兰",
+                "standardValue": "#01/亮白色",
+                "seckillPrice": 379.00,
+                "originalPrice": 519.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034069373901342503",
+                "singleId": "741298200744297043",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220715/4e791bac-dba7-4505-b55f-65fa2d12e912.jpg",
+                "commodityName": "大吉岭茶男士淡香水",
+                "brandName": "BVLGARI/宝格丽",
+                "standardValue": "50ml",
+                "seckillPrice": 309.00,
+                "originalPrice": 469.00,
+                "stock": 9,
+                "remind": 0
+            }
+        ],
+        "tommorrowCommodityParams": [
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034072267899799339",
+                "singleId": "924360632235462364",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20211225/143a8b96-5d6c-4602-85ff-4ab8c5c27dfb.png",
+                "commodityName": "滋盈滋阴水乳套装",
+                "brandName": "Sulwhasoo/雪花秀",
+                "standardValue": "滋盈肌本护肤六件套(2021版)",
+                "seckillPrice": 275.00,
+                "originalPrice": 379.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034072267912382254",
+                "singleId": "945614713960533256",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220222/1b1f01ea-b39a-4aee-8e8f-5cb89b74219b.png",
+                "commodityName": "第三代帝皇蜂姿黄金复原蜜",
+                "brandName": "GUERLAIN/娇兰",
+                "standardValue": "50ml",
+                "seckillPrice": 519.00,
+                "originalPrice": 699.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034072267924965169",
+                "singleId": "715967479385427613",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220614/9a114c5a-162e-4e8a-8f41-4d1a53367ebf.jpg",
+                "commodityName": "亚马逊白泥面膜",
+                "brandName": "Kiehl's/科颜氏",
+                "standardValue": "125ml",
+                "seckillPrice": 179.00,
+                "originalPrice": 299.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034072267937548084",
+                "singleId": "715574152873902680",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200528/eb72ea65-b92d-4a00-a273-5416335389e3.jpg",
+                "commodityName": "光感小白瓶",
+                "brandName": "OLAY/玉兰油",
+                "standardValue": "30ml",
+                "seckillPrice": 139.00,
+                "originalPrice": 249.00,
+                "stock": 10,
+                "remind": 0
+            },
+            {
+                 "commodityId": "768852864008195066",
+                "logId": "1034072267950130999",
+                "singleId": "720592411381730617",
+                "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220726/3ba5b241-c0bb-4269-84ea-0fb27d410123.png",
+                "commodityName": "顺行柔和洁颜泡沫洗面奶",
+                "brandName": "Sulwhasoo/雪花秀",
+                "standardValue": "200ml",
+                "seckillPrice": 95.00,
+                "originalPrice": 229.00,
+                "stock": 10,
+                "remind": 0
+            }
+        ]
+    }
+}

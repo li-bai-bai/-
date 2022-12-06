@@ -1,0 +1,132 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": {
+        "prepareDiscernOrderId": "1041675095476538952",
+        "orderTotal": 0,
+        "discernTimes": 1,
+        "genuineFake": null,
+        "materialProductId": null,
+        "h5Link": "https://h5web.weijianapp.com/activity/837014628729880599",
+        "officialUnion": 0,
+        "officialUnionImg": null,
+        "officialUnionIntro": null,
+        "product": {
+            "productId": "334814703484141568",
+            "imageUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200922/81e15aa1-370e-4dcd-bc2a-dde7071e97a5.png",
+            "name": "白瓶爽肤水",
+            "brandName": "A.H.C/爱和纯",
+            "versionDescription": null,
+            "versionIntroduction": null
+        },
+        "identifyTeacher": {
+            "identifyId": "782609409254621950",
+            "headImageUrl": "https://other.weijianapp.com/Icon/OfficialUnionIcon.png",
+            "nickName": "平台自动分配 (最快)",
+            "queue": 0
+        },
+        "productModelList": [
+            {
+                "id": "32584",
+                "name": "瓶身正面",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/5cfa18b4-85b6-411a-b095-1e8e9ee59008.jpg",
+                "exampleImgName": "瓶身正面",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/0513506f-04bc-44b2-86d4-6ec33b8de33e.png",
+                "discernImgName": "瓶身正面",
+                "type": 1
+            },
+            {
+                "id": "32585",
+                "name": "瓶身背面",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/d994ca28-72bf-4c2f-b630-254da80f978e.jpg",
+                "exampleImgName": "瓶身背面",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/57ae39ca-41fe-45c6-9325-fb29f0f3f524.png",
+                "discernImgName": "瓶身背面",
+                "type": 1
+            },
+            {
+                "id": "32586",
+                "name": "盖顶部",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/9dfd07dd-424a-49bb-b0b8-f76392311413.jpg",
+                "exampleImgName": "瓶盖顶部logo",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/d8c0bf98-865c-491f-a894-d340692ff975.png",
+                "discernImgName": "瓶盖顶部logo",
+                "type": 1
+            },
+            {
+                "id": "32587",
+                "name": "瓶身底部",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/ec5e28b6-da07-4593-a71b-733e2b57e18f.jpg",
+                "exampleImgName": "瓶身底部",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/cd762c29-7d69-40e1-8b96-fa528ef51d77.png",
+                "discernImgName": "瓶身底部",
+                "type": 1
+            },
+            {
+                "id": "32588",
+                "name": "按压头正面",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/bd1ccbfe-1e3f-400b-91e8-840bae960f97.jpg",
+                "exampleImgName": "按压喷口正面",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/75660486-860b-4a04-a854-68209fa58d38.png",
+                "discernImgName": "按压喷口正面",
+                "type": 1
+            },
+            {
+                "id": "32589",
+                "name": "喷头侧面",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/fe030881-6cfc-4218-bf71-2a8c6e1a800e.jpg",
+                "exampleImgName": "喷头侧面",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/6a6b6698-51be-4590-8bc7-33cda91a3c1a.png",
+                "discernImgName": "喷头侧面",
+                "type": 1
+            },
+            {
+                "id": "32590",
+                "name": "按压头拔掉",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/e7871c9e-2589-4a4d-94b9-9870bea85e69.jpg",
+                "exampleImgName": "按压喷口拔掉",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/6ee9c216-1a8b-4e0b-9599-4725c98f45b8.png",
+                "discernImgName": "按压喷口拔掉",
+                "type": 1
+            },
+            {
+                "id": "32592",
+                "name": "按压喷口内部",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210508/d526daa3-f9ee-4db1-8dd7-c6e273c48960.jpg",
+                "exampleImgName": "按压喷口内部",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/c9a50b23-a689-4fa6-9d27-af61db3e60a9.png",
+                "discernImgName": "按压喷口内部",
+                "type": 1
+            },
+            {
+                "id": "32593",
+                "name": "盖内带闪光",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/eed1ed6f-2459-40a9-803d-710d9f1ca4d7.jpg",
+                "exampleImgName": "吸管头内部",
+                "discernImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200815/11e3b8ee-427d-4814-a704-fea4aab59a14.png",
+                "discernImgName": "吸管头内部",
+                "type": 1
+            }
+        ],
+        "productChoseModelList": [
+            {
+                "id": "32594",
+                "name": "盒子正面",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/d7cf4a81-15f9-41ae-81b0-4e4f8b5c9fc5.jpg",
+                "exampleImgName": "包装盒正面",
+                "discernImgUrl": "http://image.weijianapp.com/artcloud-app-mgr-provider-user/20190417/edbec077-d4c1-4beb-a415-db189ef4b886.png",
+                "discernImgName": "包装盒正面",
+                "type": 2
+            },
+            {
+                "id": "32596",
+                "name": "盒子内侧",
+                "exampleImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210507/b824c5db-bacf-4d9f-8dfb-372c7634c239.jpg",
+                "exampleImgName": "包装盒内层",
+                "discernImgUrl": "http://image.weijianapp.com/artcloud-app-mgr-provider-user/20190513/6328307e-3b80-470f-8aa1-51d66b158b47.png",
+                "discernImgName": "包装盒内层",
+                "type": 2
+            }
+        ]
+    }
+}

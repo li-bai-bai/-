@@ -1,0 +1,161 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "collectionId": "944259870259938154",
+            "activityName": "闪电发货",
+            "backgroundUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/e1a49c7a-56a2-414d-aeb4-0cae87066bc1.png",
+            "h5Link": "https://h5web.weijianapp.com/activity/845316821950137760",
+            "singleIds": "715247105358169537,715518621190719639,717317874674306925,748256442363936833,715270422731426461",
+            "h5custom": "845316821950137760",
+            "sort": 1,
+            "status": 1,
+            "share": 1,
+            "permanent": 1,
+            "remark": "",
+            "createTime": "2022-02-18 15:51:37",
+            "updateTime": "2022-02-18 15:53:23",
+            "operateUserId": "380407548085272576",
+            "operateUserName": "维鉴福利官",
+            "singleVOList": [
+                {
+                    "commodityId": "715247105349780918",
+                    "singleId": "715247105358169537",
+                    "brandName": "Giorgio Armani/阿玛尼",
+                    "commodityName": "蓝标大师粉底液",
+                    "seriesName": "粉底液",
+                    "standardValue": "#02",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200527/da0f8e22-a4be-4496-b777-14e420200d99.jpg",
+                    "payPersons": 10788,
+                    "price": 247.00,
+                    "stock": 4,
+                    "blackPrice": 240.00
+                },
+                {
+                    "commodityId": "715247105349780918",
+                    "singleId": "715518621190719639",
+                    "brandName": "SK-II",
+                    "commodityName": "小灯泡精华",
+                    "seriesName": "精华",
+                    "standardValue": "50ml",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200528/fd4a2d09-eaf9-4d5d-8787-72a939024648.jpg",
+                    "payPersons": 4246,
+                    "price": 774.00,
+                    "stock": 5,
+                    "blackPrice": 761.00
+                },
+                {
+                    "commodityId": "715247105349780918",
+                    "singleId": "717317874674306925",
+                    "brandName": "ESTEE LAUDER/雅诗兰黛",
+                    "commodityName": "小棕瓶抗蓝光眼霜",
+                    "seriesName": "眼霜",
+                    "standardValue": "15ml",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220728/a74d5354-99e2-4ffd-8a37-58d0cb1d0f43.jpg",
+                    "payPersons": 10839,
+                    "price": 238.00,
+                    "stock": 17,
+                    "blackPrice": 231.00
+                },
+                {
+                    "commodityId": "715247105349780918",
+                    "singleId": "748256442363936833",
+                    "brandName": "Yves Saint Laurent/圣罗兰",
+                    "commodityName": "全新皮革气垫",
+                    "seriesName": "气垫",
+                    "standardValue": "#B10",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200826/c5b8ea61-c1d3-4135-9372-fb2473d02115.jpg",
+                    "payPersons": 3898,
+                    "price": 313.00,
+                    "stock": 8,
+                    "blackPrice": 304.00
+                }
+            ]
+        },
+        {
+            "collectionId": "944270087987135404",
+            "activityName": "热门口红",
+            "backgroundUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20220218/d2e67a67-bd4c-426d-8fb7-b7b0baddbffa.png",
+            "h5Link": "https://h5web.weijianapp.com/activity/758324634780176382",
+            "singleIds": "715235618262614780,715271807623498469,715296162554315022,715533000288243527,822554501712970192",
+            "h5custom": "758324634780176382",
+            "sort": 2,
+            "status": 1,
+            "share": 1,
+            "permanent": 0,
+            "remark": "",
+            "createTime": "2022-02-18 16:32:13",
+            "updateTime": "2022-03-03 09:30:24",
+            "operateUserId": "380407548085272576",
+            "operateUserName": "维鉴福利官",
+            "singleVOList": [
+                {
+                    "commodityId":"715235618224865964",
+                    "singleId": "715235618262614780",
+                    "brandName": "Giorgio Armani/阿玛尼",
+                    "commodityName": "臻致丝绒哑光红管唇釉6.5ml",
+                    "seriesName": "口红",
+                    "standardValue": "#405/Sultan 烂番茄色",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20201105/95fb9f89-27cd-435e-b2c7-8308a063ae43.jpg",
+                    "payPersons": 12029,
+                    "price": 136.00,
+                    "stock": 21,
+                    "blackPrice": 132.00
+                },
+                {
+                    "commodityId":"715235618224865964",
+                    "singleId": "715271807623498469",
+                    "brandName": "MAC/魅可",
+                    "commodityName": "子弹头唇膏口红3g",
+                    "seriesName": "口红",
+                    "standardValue": "#602/Chili 小辣椒",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200527/c104d35d-5152-4d94-9867-9e364bcb61b9.jpg",
+                    "payPersons": 14854,
+                    "price": 111.00,
+                    "stock": 26,
+                    "blackPrice": 108.00
+                },
+                {
+                    "commodityId":"715235618224865964",
+                    "singleId": "715296162554315022",
+                    "brandName": "GIVENCHY/纪梵希",
+                    "commodityName": "红丝绒唇膏口红3.4g",
+                    "seriesName": "口红",
+                    "standardValue": "#N37/Rouge Graine 朱砂砖红",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200527/5e6c9f04-ae8d-4fcd-ad18-524f27da8396.jpg",
+                    "payPersons": 9821,
+                    "price": 142.00,
+                    "stock": 15,
+                    "blackPrice": 138.00
+                },
+                {
+                    "commodityId":"715235618224865964",
+                    "singleId": "715533000288243527",
+                    "brandName": "Yves Saint Laurent/圣罗兰",
+                    "commodityName": "小金条细管唇膏口红2.2g",
+                    "seriesName": "口红",
+                    "standardValue": "#21/Rouge Paradoxe 不羁复古红",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20200619/c9e45ef9-2c8b-47a0-8274-1383f27ba986.png",
+                    "payPersons": 10655,
+                    "price": 154.00,
+                    "stock": 34,
+                    "blackPrice": 150.00
+                },
+                {
+                    "commodityId":"715235618224865964",
+                    "singleId": "822554501712970192",
+                    "brandName": "DIOR/迪奥",
+                    "commodityName": "全新烈艳蓝金唇膏口红",
+                    "seriesName": "口红",
+                    "standardValue": "#999/传奇红唇 哑光",
+                    "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210319/7194af83-a16f-46ef-b350-d1a5ca42842e.png",
+                    "payPersons": 5065,
+                    "price": 265.00,
+                    "stock": 3,
+                    "blackPrice": 258.00
+                }
+            ]
+        }
+    ]
+} 

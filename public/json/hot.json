@@ -1,0 +1,48 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "conversationId": "700011755589337740",
+            "name": "小维鉴别",
+            "shareAmount": null,
+            "discussAmount": 314093,
+            "status": 0,
+            "sort": 1,
+            "type": 1,
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210513/c1201634-4a4e-4d56-8f86-2cfc3059dead.png",
+            "createTime": "2021-05-08 17:31:04",
+            "operateUserId": "380407548085272576",
+            "operateUserName": "维鉴福利官",
+            "updateTime": "2022-10-29 17:12:49"
+        },
+        {
+            "conversationId": "692669061259067541",
+            "name": "我的口红日记",
+            "shareAmount": null,
+            "discussAmount": 79686,
+            "status": 0,
+            "sort": 2,
+            "type": 1,
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210513/6aa4ff23-a6fa-4f86-bdf3-21624dd9101c.png",
+            "createTime": "2021-05-08 17:31:04",
+            "operateUserId": "380407548085272576",
+            "operateUserName": "维鉴福利官",
+            "updateTime": "2022-10-29 16:34:45"
+        },
+        {
+            "conversationId": "689871514069106707",
+            "name": "我的护肤日常",
+            "shareAmount": null,
+            "discussAmount": 36240,
+            "status": 0,
+            "sort": 3,
+            "type": 1,
+            "imgUrl": "https://other.weijianapp.com/artcloud-app-mgr-provider-user/20210513/e334cbd1-4661-443d-ab67-2f04f42a63f9.png",
+            "createTime": "2021-05-08 17:31:04",
+            "operateUserId": "380407548085272576",
+            "operateUserName": "维鉴福利官",
+            "updateTime": "2022-10-29 15:43:22"
+        }
+    ]
+}

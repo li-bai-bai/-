@@ -1,0 +1,156 @@
+{
+    "code": "200",
+    "message": "success",
+    "data": [
+        {
+            "userId": null,
+            "sysUserId": "782609409254621950",
+            "nickName": "平台自动分配 (最快)",
+            "headImgUrl": "https://other.weijianapp.com/Icon/OfficialUnionIcon.png",
+            "queue": 0,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": null
+        },
+        {
+            "userId": "719265880554343922",
+            "sysUserId": "620315287698276352",
+            "nickName": "Salsa",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210711/bc4b04b4-6216-4214-af9d-6a57ad07e2ba.jpg",
+            "queue": 43,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：彩妆/香水香氛/护肤/洗护"
+        },
+        {
+            "userId": "782299720289617971",
+            "sysUserId": "540530782192533504",
+            "nickName": "乐瑶",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20201216/122c9603-8d99-4274-9c95-cc5595c93ce5.jpg",
+            "queue": 43,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "请勿拼图，对拍摄角度有较高的要求，谢谢。"
+        },
+        {
+            "userId": "782609409254621950",
+            "sysUserId": "539803157786525696",
+            "nickName": "潇洒哥",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20201129/bf87ef20-f6d8-42cb-84f3-65f177161d5c.jpg",
+            "queue": 43,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "您只需要把图片拍的完整和清晰，其它的都可以放心交给我。"
+        },
+        {
+            "userId": "802872939279024152",
+            "sysUserId": "653575840973455360",
+            "nickName": "小陈同学",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211009/2153863f-e970-43c1-8576-0a929cbb52c3.jpg",
+            "queue": 43,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：各大品牌美妆\nYSL/TF/阿玛尼/雅诗兰黛\n美妆鉴别老司机，一鉴一准\n累计鉴别产品8w+"
+        },
+        {
+            "userId": "803031053814989816",
+            "sysUserId": "608265437737648128",
+            "nickName": "Wendy",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210606/61fe3964-aba7-42f9-8814-df3d1a2d40ca.jpg",
+            "queue": 44,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别ysl，cpb，纪梵希，Dior，黛珂，阿玛尼等各种知名品牌"
+        },
+        {
+            "userId": "860445788768045844",
+            "sysUserId": "620952758119301120",
+            "nickName": "奶茶",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210711/b393202a-7b65-4522-854c-01ac800bbe8c.png",
+            "queue": 44,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：雅诗兰黛/黛珂/香奈儿/海蓝之谜/等各种品牌"
+        },
+        {
+            "userId": "907214964928809896",
+            "sysUserId": "670266688750485504",
+            "nickName": "小熊行星",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/d463135f-861c-4bb3-bd9c-e7227c824f22.jpg",
+            "queue": 44,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "能够跟紧假货更新的脚步，了解假货商们的一举一动。"
+        },
+        {
+            "userId": "910465404193737851",
+            "sysUserId": "671691725831405568",
+            "nickName": "小飞侠",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211128/a1e3cda2-b4e5-458b-90ed-fc8ece00079f.png",
+            "queue": 44,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：TF/阿玛尼/圣罗兰等\n麻烦动动小手对焦一下拍得清晰完整喔，三克油"
+        },
+        {
+            "userId": "581439180379258900",
+            "sysUserId": "330005500844310528",
+            "nickName": "维叔",
+            "headImgUrl": "http://image.weijianapp.com/artcloud-app-mgr-provider-user/20190711/676e7d52-3280-43ee-a854-39e4ea9bd5a9.png",
+            "queue": 45,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "从事美妆行业多年，专业细心。"
+        },
+        {
+            "userId": "693406141425647727",
+            "sysUserId": "458998519399710720",
+            "nickName": "柯北",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20200420/878c28cf-88b4-433c-b0a0-7014f51da348.jpg",
+            "queue": 45,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "能够跟紧假货更新的脚步，了解假货商们的一举一动。"
+        },
+        {
+            "userId": "823290552752537918",
+            "sysUserId": "670264489559457792",
+            "nickName": "蜜桃可可",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/d646bbff-b32f-43c6-b317-812e55b7f643.jpg",
+            "queue": 45,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：各大品牌美妆\n雅诗兰黛/SK-II/圣罗兰等\n专攻美妆鉴别，熟识各类细节"
+        },
+        {
+            "userId": "755846357327022724",
+            "sysUserId": "596636343832936448",
+            "nickName": "一只魚ovovo",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210505/bc65c171-c997-421f-a651-93a2b21ba10b.jpg",
+            "queue": 46,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：雅诗兰黛·阿玛尼·YSL·TF·CPB·黛珂·纪梵希·香奈儿等各种知名品牌，看在我这么可爱的份上，请勿拼图哟"
+        },
+        {
+            "userId": "815515253432387145",
+            "sysUserId": "573150809395560448",
+            "nickName": "葡萄紫了",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20210301/10edc0df-9cd1-42d1-8e5f-a5941b1a9802.jpg",
+            "queue": 46,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "可鉴别：圣罗兰全系列口红、后系列、汤姆福特系列、阿玛尼系列、sk-ll等热门品牌"
+        },
+        {
+            "userId": "913066893651215235",
+            "sysUserId": "670265728456196096",
+            "nickName": "小魚小魚",
+            "headImgUrl": "http://images.weijianapp.com/artcloud-app-mgr-provider-user/20211124/9c7dcb55-02f6-4cf3-9979-fc3ad05f9063.jpg",
+            "queue": 50,
+            "identifiedList": [],
+            "identifiable": null,
+            "briefIntroduction": "从事鉴别行业6年，专业过硬从未失手。\n个人slogan：让假货商无处可逃！"
+        }
+    ]
+}
