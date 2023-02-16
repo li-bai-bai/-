@@ -1,6 +1,6 @@
 # vue3-惠生活
 
-###有问题请联系作者（If you have questions, please contact the author）
+### 有问题请联系作者（If you have questions, please contact the author）
 
 ## Project setup
 ```
