@@ -56,7 +56,7 @@
 </template>
 
 <script>
-import { reactive, toRefs } from "vue";
+import { reactive, toRefs, } from "vue";
 import { useRouter,useRoute } from "vue-router";
 import { useStore } from '../store/index.js'
 export default {

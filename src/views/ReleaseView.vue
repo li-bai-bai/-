@@ -30,8 +30,8 @@
                     </div>
                 </div>
                 <div class="ticketbox">
-                    <div class="ticketlit">粤嵌科技(从化园区)</div>
-                    <div class="ticketlit">粤嵌科技(从化园区)</div>
+                    <div class="ticketlit"></div>
+                    <div class="ticketlit"></div>
                 </div>
             </div>
             <div class="line"></div> -->

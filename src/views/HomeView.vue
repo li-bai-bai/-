@@ -136,7 +136,7 @@
 import NavBar from '@/components/NavBar.vue'
 import { useRouter } from 'vue-router'
 // import { getHomefeed } from "../api/homefeed.js"
-import { onMounted, reactive, toRefs } from '@vue/runtime-core'
+import { reactive, toRefs } from '@vue/runtime-core'
 import { getHomefeed,getHomeMakeup,getHomeNew,getArticleDetail,getArticleDetailMore} from "../api/homefeed.js"
 import { useStore } from '../store/index.js'
 export default {
@@ -438,11 +438,6 @@ export default {
 
     created();
     
-    onMounted(()=>{
-      // created();
-      
-    })
-
     // 过滤器
     let getFilter = (value)=>{
        if(value < 10000){
